@@ -13,6 +13,7 @@ footer{
     background-image: linear-gradient(black, gray);
     width: 90vw;
     height: 15vh;
+    margin: 5px auto;
 }
 section{
     width: 100vw;
@@ -33,4 +34,12 @@ h1{
 h1:hover{
     font-size: 3.2rem;
     color: lime;
+}
+h4{
+    font-size: 1.2rem;
+    transition: all 2s;
+}
+h4:hover{
+    font-size: 1.3rem;
+    color: fuchsia;
 }
